@@ -1,11 +1,13 @@
-# Sharif's Portfolio
+# Md Shairfuzzaman — Portfolio
 
-A simple, responsive personal portfolio built with plain HTML and CSS.
+A polished, responsive personal portfolio built with HTML and CSS.
 
-## View locally
+## Preview
 
-Open `index.html` in your browser.
+Open `index.html` in a browser, or enable GitHub Pages from the repository settings.
 
 ## Customize
 
-Update the intro, about section, skills, project cards, and contact link in `index.html` with your own details.
+- Update project cards in `index.html`
+- Replace placeholder GitHub links with your profiles and live projects
+- Add an email or social contact link
